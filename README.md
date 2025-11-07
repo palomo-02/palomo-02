@@ -9,7 +9,11 @@
 <td valign="top" width="60%">
 <h3>👨‍💻 Sobre Mí</h3>
 <p>
-Soy un <strong>[REEMPLAZA CON TU ROL, ej: Desarrollador Java]</strong> apasionado por [REEMPLAZA CON TU INTERÉS, ej: el desarrollo de aplicaciones móviles].
+<strong>👤 Nombre:</strong> José Manuel Palomo Zambrano
+<br>
+<strong>🎓 Estudios: Desarrollo de aplicaiones multiplataforma
+<br><br>
+Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros.
 <br><br>
 <strong>🔭 Actualmente estoy trabajando en:</strong>
 <br>
@@ -76,3 +80,15 @@ Soy un <strong>[REEMPLAZA CON TU ROL, ej: Desarrollador Java]</strong> apasionad
 <img src="https://github-readme-stats.vercel.app/api?username=palomo-02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub">
 <br>
 </div>
+
+### 🌐 Conéctate Conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[TU_USUARIO_AQUI](https://www.linkedin.com/in/jose-manuel-palomo-zambrano-94baaa291/)/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:jomapalomozambrano@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
