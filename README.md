@@ -47,7 +47,7 @@ Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </a>
@@ -82,4 +82,11 @@ Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros
 <a href="https://www.linkedin.com/in/jose-manuel-palomo-zambrano-94baaa291/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="mailto:jomapalomozambrano@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=palomo-02&label=VISITAS%20AL%20PERFIL&color=0e75b6&style=for-the-badge" alt="Contador de Vistas"/>
 </p>
