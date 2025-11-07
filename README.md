@@ -25,13 +25,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   </a>
 
-  <br><br> <p><strong>IDEs y Entornos</strong></p>
+  <br><br> 
+
+  <p><strong>IDEs y Entornos</strong></p>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
