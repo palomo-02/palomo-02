@@ -34,6 +34,8 @@ Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros
 </td>
 <td valign="top" align="center" width="40%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomo-02&layout=compact&theme=dracula" alt="Lenguajes más usados">
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=palomo-02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub">
 </td>
 </tr>
 </table>
@@ -72,13 +74,6 @@ Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="50" height="50"/>
 </a>
-</div>
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=palomo-02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub">
-<br>
 </div>
 
 ### 🌐 Conéctate Conmigo
