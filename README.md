@@ -1,5 +1,5 @@
 <div align="center">
-<a href="">
+<a href="https://www.linkedin.com/in/jose-manuel-palomo-zambrano-94baaa291/">
 <img src="https://raw.githubusercontent.com/palomo-02/palomo-02/main/Paloma_programando_sin_rayos.gif" alt="Banner de bienvenida animado">
 </a>
 </div>
@@ -11,7 +11,7 @@
 <p>
 <strong>👤 Nombre:</strong> José Manuel Palomo Zambrano
 <br>
-<strong>🎓 Estudios: Desarrollo de aplicaiones multiplataforma
+<strong>🎓 Estudios:</strong> Desarrollo de Aplicaciones Multiplataforma
 <br><br>
 Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros.
 <br><br>
@@ -84,11 +84,10 @@ Soy un <strong>Estudiante de DAM</strong> apasionado por el backEnd y los libros
 ### 🌐 Conéctate Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[TU_USUARIO_AQUI](https://www.linkedin.com/in/jose-manuel-palomo-zambrano-94baaa291/)/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:jomapalomozambrano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<a href="https://www.linkedin.com/in/jose-manuel-palomo-zambrano-94baaa291/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:jomapalomozambrano@gmail.com" target="_blank">
+<img src="httpsS://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </p>
