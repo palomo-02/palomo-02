@@ -9,7 +9,46 @@
 </div>
 
 
-### 🛠️ Tecnologías y Herramientas
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>👨‍💻 Sobre Mí</h3>
+      <p>
+        Soy un <strong>[REEMPLAZA CON TU ROL, ej: Desarrollador Java]</strong> apasionado por [REEMPLAZA CON TU INTERÉS, ej: el desarrollo de aplicaciones móviles].
+        <br><br>
+        
+        <strong>🔭 Actualmente estoy trabajando en:</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <br><br>
+
+        <strong>🌱 Estoy aprendiendo:</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Patrones_de_Diseño-232F3E?style=for-the-badge&logo=gitbook&logoColor=white" alt="Patrones de Diseño"/>
+        <img src="https://img.shields.io/badge/SQL_Avanzado-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Avanzado"/>
+        <br><br>
+
+        <strong>💬 Pregúntame sobre:</strong>
+        <br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      </p>
+    </td>
+    
+    <td valign="top" align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomo-02&layout=compact&theme=dracula" alt="Lenguajes más usados">
+      
+      </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 <div align="center">
   <p><strong>Lenguajes y Bases de Datos</strong></p>
